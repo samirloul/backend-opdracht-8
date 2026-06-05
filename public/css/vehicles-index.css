@@ -1,0 +1,14 @@
+.icon-delete {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: none;
+    background: #ffe2de;
+    color: #a72f2f;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.icon-delete:hover {
+    background: #ffd1cb;
+}

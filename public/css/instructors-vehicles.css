@@ -1,0 +1,30 @@
+.danger-btn {
+    border: none;
+    background: #c53030;
+    color: #fff;
+    border-radius: 9px;
+    padding: 8px 12px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.danger-btn:hover {
+    background: #a82d2d;
+}
+
+.actions-row {
+    padding: 20px 24px 0;
+}
+
+.btn-back {
+    text-decoration: none;
+    color: #1b415d;
+    background: #e6f3fb;
+    padding: 10px 14px;
+    border-radius: 9px;
+    font-weight: 700;
+}
+
+.btn-back:hover {
+    background: #d8ecf8;
+}

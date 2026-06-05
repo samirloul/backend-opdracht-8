@@ -1,0 +1,15 @@
+.icon-link {
+    text-decoration: none;
+    display: inline-grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #e9f6ff;
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.icon-link:hover {
+    transform: scale(1.06);
+    background: #d6edfd;
+}
